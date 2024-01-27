@@ -17,7 +17,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    cd react-tic-tac-toe
    npm install
    npm run dev
-
+   ```
 
 
 The application will be available at http://localhost:5173 in your web browser.
